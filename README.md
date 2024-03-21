@@ -1,25 +1,5 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-# students' mental health
-this project is inspired by a significant study conducted by a japanese university in 2018, which highlighted the mental health challenges faced by international students. approved by numerous ethical and regulatory boards, the study's findings, published in 2019, revealed a heightened risk of mental health issues among international students compared to their domestic counterparts. factors such as social connectedness and acculturative stress were identified as key predictors of depression among this demographic.
-=======
 # Analyze Students' Mental Health
 This project is inspired by a significant study conducted by a Japanese university in 2018, which highlighted the mental health challenges faced by international students. Approved by numerous ethical and regulatory boards, the study's findings, published in 2019, revealed a heightened risk of mental health issues among international students compared to their domestic counterparts. Factors such as social connectedness and acculturative stress were identified as key predictors of depression among this demographic.
->>>>>>> parent of e79a17a (Update README.md)
-=======
-# Analyze Students' Mental Health
-This project is inspired by a significant study conducted by a Japanese university in 2018, which highlighted the mental health challenges faced by international students. Approved by numerous ethical and regulatory boards, the study's findings, published in 2019, revealed a heightened risk of mental health issues among international students compared to their domestic counterparts. Factors such as social connectedness and acculturative stress were identified as key predictors of depression among this demographic.
->>>>>>> parent of e79a17a (Update README.md)
-=======
-# Analyze Students' Mental Health
-This project is inspired by a significant study conducted by a Japanese university in 2018, which highlighted the mental health challenges faced by international students. Approved by numerous ethical and regulatory boards, the study's findings, published in 2019, revealed a heightened risk of mental health issues among international students compared to their domestic counterparts. Factors such as social connectedness and acculturative stress were identified as key predictors of depression among this demographic.
->>>>>>> parent of e79a17a (Update README.md)
-=======
-# Analyze Students' Mental Health
-This project is inspired by a significant study conducted by a Japanese university in 2018, which highlighted the mental health challenges faced by international students. Approved by numerous ethical and regulatory boards, the study's findings, published in 2019, revealed a heightened risk of mental health issues among international students compared to their domestic counterparts. Factors such as social connectedness and acculturative stress were identified as key predictors of depression among this demographic.
->>>>>>> parent of e79a17a (Update README.md)
 
 # Objective
 The primary goal of this project is to analyze the students dataset using SQL and Python to investigate the mental health of international students. Specifically, we aim to validate the findings of the 2019 study and explore whether the duration of an international student's stay in the host country influences their mental well-being.
